@@ -1,0 +1,14 @@
+{
+  "models": [
+    "YL-69"
+  ],
+  "inputs": {
+    "gpio-in": {
+      "type": "gpio",
+      "args": {
+        "direction": "in",
+        "edge": "both"
+      }
+    }
+  }
+}
