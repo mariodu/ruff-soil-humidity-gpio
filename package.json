@@ -1,6 +1,6 @@
 {
   "name": "soil-humidity-gpio",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "土壤湿度传感器YL-69驱动，根据设定阈值读取高低电平版本",
   "author": "mariodu - <dujiakun@gmail.com>",
   "main": "src/index.js"
